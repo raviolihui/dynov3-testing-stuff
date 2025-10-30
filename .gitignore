@@ -10,9 +10,12 @@ dist/
 
 # Ignore shell scripts
 *.sh
-
+SIF_DATA_TROPOMI/
 # Ignore swap files
 *.swp
 
 # Ignore vscode directory
 .vscode/
+dinov3/
+.dinov3/*
+
