@@ -33,3 +33,5 @@ training_metrics.json
 *.pyc
 *.distcp
 .metadata 
+experiments/
+*.distcp
